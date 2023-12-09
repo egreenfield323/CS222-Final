@@ -1,0 +1,640 @@
+{
+  "id": 22509,
+  "slug": "minecraft",
+  "name": "Minecraft",
+  "name_original": "Minecraft",
+  "description": "<p>One of the most popular games of the 2010s, Minecraft allows you to rebuild the environment around you. The world of the game is open, infinitely wide, and procedurally generated. It is composed of small 3D cubes that represent specific types of materials or terrain. The gameplay is centered on mining and building various structures of your choice. You can also craft items like tools, weapons, and armor. There&#39;s an option to shift to the first or the third person view.<br />\nMinecraft includes multiple modes that dramatically change the focus of the game. Survival and Adventure modes require the player to gather resources, hunt for food and fight monsters to survive. In the Hardcore mode, there's even permanent death. Creative mode, by contrast, offers you to freely explore the world and construct whatever you want with unlimited resources. There's also a multiplayer mode that allows the players to share their worlds and engage in the traditional MMO activities, such as player-vs-player combat.<br />\nMinecraft's crude visual style, reminiscent of Lego cubes, became an iconic part of the popular culture. There are many myths and fan fiction surrounding the game, such as the legend of Herobrine, a rumored character that officially doesn't exist.</p>",
+  "metacritic": 83,
+  "metacritic_platforms": [
+    {
+      "metascore": 88,
+      "url": "https://www.metacritic.com/game/xbox-one/minecraft-xbox-one-edition",
+      "platform": {
+        "platform": 1,
+        "name": "Xbox One",
+        "slug": "xbox-one"
+      }
+    },
+    {
+      "metascore": 82,
+      "url": "https://www.metacritic.com/game/xbox-360/minecraft-xbox-360-edition",
+      "platform": {
+        "platform": 14,
+        "name": "Xbox 360",
+        "slug": "xbox360"
+      }
+    },
+    {
+      "metascore": 77,
+      "url": "https://www.metacritic.com/game/wii-u/minecraft-wii-u-edition",
+      "platform": {
+        "platform": 10,
+        "name": "Wii U",
+        "slug": "wii-u"
+      }
+    },
+    {
+      "metascore": 86,
+      "url": "https://www.metacritic.com/game/switch/minecraft",
+      "platform": {
+        "platform": 7,
+        "name": "Nintendo Switch",
+        "slug": "nintendo-switch"
+      }
+    },
+    {
+      "metascore": 84,
+      "url": "https://www.metacritic.com/game/playstation-vita/minecraft-playstation-vita-edition",
+      "platform": {
+        "platform": 19,
+        "name": "PS Vita",
+        "slug": "ps-vita"
+      }
+    },
+    {
+      "metascore": 89,
+      "url": "https://www.metacritic.com/game/playstation-4/minecraft-playstation-4-edition",
+      "platform": {
+        "platform": 18,
+        "name": "PlayStation 4",
+        "slug": "playstation4"
+      }
+    },
+    {
+      "metascore": 86,
+      "url": "https://www.metacritic.com/game/playstation-3/minecraft-playstation-3-edition",
+      "platform": {
+        "platform": 16,
+        "name": "PlayStation 3",
+        "slug": "playstation3"
+      }
+    },
+    {
+      "metascore": 62,
+      "url": "https://www.metacritic.com/game/3ds/minecraft-new-nintendo-3ds-edition",
+      "platform": {
+        "platform": 8,
+        "name": "Nintendo 3DS",
+        "slug": "nintendo-3ds"
+      }
+    },
+    {
+      "metascore": 93,
+      "url": "https://www.metacritic.com/game/pc/minecraft",
+      "platform": {
+        "platform": 4,
+        "name": "PC",
+        "slug": "pc"
+      }
+    }
+  ],
+  "released": "2009-05-10",
+  "tba": false,
+  "updated": "2023-03-15T06:47:42",
+  "background_image": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg",
+  "background_image_additional": "https://media.rawg.io/media/screenshots/e31/e31af2817843f56e90490e99b706e75c.jpg",
+  "website": "https://classic.minecraft.net/",
+  "rating": 4.42,
+  "rating_top": 5,
+  "ratings": [
+    {
+      "id": 5,
+      "title": "exceptional",
+      "count": 1492,
+      "percent": 58.86
+    },
+    {
+      "id": 4,
+      "title": "recommended",
+      "count": 784,
+      "percent": 30.93
+    },
+    {
+      "id": 3,
+      "title": "meh",
+      "count": 179,
+      "percent": 7.06
+    },
+    {
+      "id": 1,
+      "title": "skip",
+      "count": 80,
+      "percent": 3.16
+    }
+  ],
+  "reactions": {
+    "1": 14,
+    "2": 4,
+    "3": 18,
+    "4": 15,
+    "5": 7,
+    "6": 7,
+    "7": 12,
+    "8": 14,
+    "9": 3,
+    "10": 3,
+    "11": 13,
+    "12": 10,
+    "16": 1
+  },
+  "added": 7361,
+  "added_by_status": {
+    "yet": 68,
+    "owned": 4244,
+    "beaten": 1424,
+    "toplay": 91,
+    "dropped": 892,
+    "playing": 642
+  },
+  "playtime": 26,
+  "screenshots_count": 34,
+  "movies_count": 0,
+  "creators_count": 15,
+  "achievements_count": 744,
+  "parent_achievements_count": 148,
+  "reddit_url": "https://www.reddit.com/r/Minecraft/",
+  "reddit_name": "Minecraft on reddit",
+  "reddit_description": "Minecraft community on reddit.",
+  "reddit_logo": "https://b.thumbs.redditmedia.com/_J-qf37qKLV9YDnyzSrazonFiPR7LSZTOTUILuaXp5A.png",
+  "reddit_count": 11710,
+  "twitch_count": 128,
+  "youtube_count": 1000000,
+  "reviews_text_count": 44,
+  "ratings_count": 2491,
+  "suggestions_count": 335,
+  "alternative_names": [],
+  "metacritic_url": "https://www.metacritic.com/game/pc/minecraft",
+  "parents_count": 0,
+  "additions_count": 0,
+  "game_series_count": 6,
+  "user_game": null,
+  "reviews_count": 2535,
+  "saturated_color": "0f0f0f",
+  "dominant_color": "0f0f0f",
+  "parent_platforms": [
+    {
+      "platform": {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      }
+    },
+    {
+      "platform": {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      }
+    },
+    {
+      "platform": {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      }
+    },
+    {
+      "platform": {
+        "id": 4,
+        "name": "iOS",
+        "slug": "ios"
+      }
+    },
+    {
+      "platform": {
+        "id": 8,
+        "name": "Android",
+        "slug": "android"
+      }
+    },
+    {
+      "platform": {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      }
+    },
+    {
+      "platform": {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      }
+    },
+    {
+      "platform": {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    }
+  ],
+  "platforms": [
+    {
+      "platform": {
+        "id": 21,
+        "name": "Android",
+        "slug": "android",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 54865,
+        "image_background": "https://media.rawg.io/media/games/daa/daaee07fcb40744d90cf8142f94a241f.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {
+        "minimum": "4.2 and up"
+      }
+    },
+    {
+      "platform": {
+        "id": 19,
+        "name": "PS Vita",
+        "slug": "ps-vita",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 1624,
+        "image_background": "https://media.rawg.io/media/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {}
+    },
+    {
+      "platform": {
+        "id": 18,
+        "name": "PlayStation 4",
+        "slug": "playstation4",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 6590,
+        "image_background": "https://media.rawg.io/media/games/c4b/c4b0cab189e73432de3a250d8cf1c84e.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {}
+    },
+    {
+      "platform": {
+        "id": 16,
+        "name": "PlayStation 3",
+        "slug": "playstation3",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 3301,
+        "image_background": "https://media.rawg.io/media/games/456/456dea5e1c7e3cd07060c14e96612001.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {}
+    },
+    {
+      "platform": {
+        "id": 14,
+        "name": "Xbox 360",
+        "slug": "xbox360",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 2780,
+        "image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {}
+    },
+    {
+      "platform": {
+        "id": 8,
+        "name": "Nintendo 3DS",
+        "slug": "nintendo-3ds",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 1731,
+        "image_background": "https://media.rawg.io/media/games/369/36914d895c20e35f273286145c267764.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {}
+    },
+    {
+      "platform": {
+        "id": 7,
+        "name": "Nintendo Switch",
+        "slug": "nintendo-switch",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 5190,
+        "image_background": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {}
+    },
+    {
+      "platform": {
+        "id": 5,
+        "name": "macOS",
+        "slug": "macos",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 106166,
+        "image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {}
+    },
+    {
+      "platform": {
+        "id": 4,
+        "name": "PC",
+        "slug": "pc",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 534735,
+        "image_background": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {}
+    },
+    {
+      "platform": {
+        "id": 3,
+        "name": "iOS",
+        "slug": "ios",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 76450,
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {
+        "minimum": "iPad 2 Wifi, iPad 2 3G, iPhone 4S, iPad Third Gen, iPad Third Gen 4G, iPhone 5, iPod Touch Fifth Gen, iPad Fourth Gen, iPad Fourth Gen 4G, iPad Mini, iPad Mini 4G, iPhone 5c, iPhone 5s, iPad Air, iPad Air Cellular, iPad Mini Retina, iPad Mini Retina Cellular, iPhone 6, iPhone 6 Plus, iPad Air 2, iPad Air 2 Cellular, iPad Mini 3, iPad Mini 3 Cellular, iPod Touch Sixth Gen, iPhone 6s, iPhone 6s Plus, iPad Mini 4, iPad Mini 4 Cellular, iPad Pro, iPad Pro Cellular, iPad Pro 9.7, iPad Pro 9.7 Cellular, iPhone SE, iPhone 7, iPhone 7 Plus, iPad 6 1 1, iPad 6 1 2, iPad 7 1, iPad 7 2, iPad 7 3, iPad 7 4, iPhone 8, iPhone 8 Plus, iPhone X, iPad 7 5, iPad 7 6, iPhone X S, iPhone X S Max, iPhone X R, iPad 8 1 2, iPad 8 3 4, iPad 8 5 6, iPad 8 7 8,  Watch 4, iPad Mini 5, iPad Mini 5 Cellular, iPad Air 3, iPad Air 3 Cellular, iPod Touch Seventh Gen"
+      }
+    },
+    {
+      "platform": {
+        "id": 10,
+        "name": "Wii U",
+        "slug": "wii-u",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 1203,
+        "image_background": "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {}
+    },
+    {
+      "platform": {
+        "id": 1,
+        "name": "Xbox One",
+        "slug": "xbox-one",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 5485,
+        "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {}
+    },
+    {
+      "platform": {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 78914,
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+      },
+      "released_at": "2009-05-10",
+      "requirements": {}
+    }
+  ],
+  "stores": [
+    {
+      "id": 47330,
+      "url": "",
+      "store": {
+        "id": 6,
+        "name": "Nintendo Store",
+        "slug": "nintendo",
+        "domain": "nintendo.com",
+        "games_count": 8860,
+        "image_background": "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg"
+      }
+    },
+    {
+      "id": 71724,
+      "url": "",
+      "store": {
+        "id": 4,
+        "name": "App Store",
+        "slug": "apple-appstore",
+        "domain": "apps.apple.com",
+        "games_count": 74714,
+        "image_background": "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg"
+      }
+    },
+    {
+      "id": 280713,
+      "url": "",
+      "store": {
+        "id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "games_count": 7796,
+        "image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+      }
+    },
+    {
+      "id": 41173,
+      "url": "",
+      "store": {
+        "id": 8,
+        "name": "Google Play",
+        "slug": "google-play",
+        "domain": "play.google.com",
+        "games_count": 17001,
+        "image_background": "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg"
+      }
+    },
+    {
+      "id": 38914,
+      "url": "",
+      "store": {
+        "id": 2,
+        "name": "Xbox Store",
+        "slug": "xbox-store",
+        "domain": "microsoft.com",
+        "games_count": 4756,
+        "image_background": "https://media.rawg.io/media/games/c4b/c4b0cab189e73432de3a250d8cf1c84e.jpg"
+      }
+    }
+  ],
+  "developers": [
+    {
+      "id": 313,
+      "name": "Mojang",
+      "slug": "mojang",
+      "games_count": 15,
+      "image_background": "https://media.rawg.io/media/games/c14/c146d28ceb14c84ea9fdbd7410701277.jpg"
+    },
+    {
+      "id": 13984,
+      "name": "4J Studios",
+      "slug": "4j-studios",
+      "games_count": 4,
+      "image_background": "https://media.rawg.io/media/screenshots/845/8456392f2c08a07e07f3e6e1d4619c58.jpg"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Action",
+      "slug": "action",
+      "games_count": 177258,
+      "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Simulation",
+      "slug": "simulation",
+      "games_count": 66772,
+      "image_background": "https://media.rawg.io/media/games/e40/e40cc9d1957b0a0ed7e389834457b524.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Arcade",
+      "slug": "arcade",
+      "games_count": 22544,
+      "image_background": "https://media.rawg.io/media/games/238/238e2b2b24c9838626700c69cacf1e3a.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Massively Multiplayer",
+      "slug": "massively-multiplayer",
+      "games_count": 3153,
+      "image_background": "https://media.rawg.io/media/games/596/596a48ef3b62b63b4cc59633e28be903.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Indie",
+      "slug": "indie",
+      "games_count": 51113,
+      "image_background": "https://media.rawg.io/media/games/dd5/dd50d4266915d56dd5b63ae1bf72606a.jpg"
+    }
+  ],
+  "tags": [
+    {
+      "id": 7,
+      "name": "Multiplayer",
+      "slug": "multiplayer",
+      "language": "eng",
+      "games_count": 35496,
+      "image_background": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Sandbox",
+      "slug": "sandbox",
+      "language": "eng",
+      "games_count": 5929,
+      "image_background": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg"
+    },
+    {
+      "id": 125,
+      "name": "Crafting",
+      "slug": "crafting",
+      "language": "eng",
+      "games_count": 3302,
+      "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Building",
+      "slug": "building",
+      "language": "eng",
+      "games_count": 5014,
+      "image_background": "https://media.rawg.io/media/games/48c/48cb04ca483be865e3a83119c94e6097.jpg"
+    },
+    {
+      "id": 571,
+      "name": "3D",
+      "slug": "3d",
+      "language": "eng",
+      "games_count": 79698,
+      "image_background": "https://media.rawg.io/media/games/e44/e445335e611b4ccf03af71fffcbd30a4.jpg"
+    },
+    {
+      "id": 62349,
+      "name": "vr mod",
+      "slug": "vr-mod",
+      "language": "eng",
+      "games_count": 17,
+      "image_background": "https://media.rawg.io/media/screenshots/1bb/1bb3f78f0fe43b5d5ca2f3da5b638840.jpg"
+    },
+    {
+      "id": 43574,
+      "name": "open-world",
+      "slug": "open-world-2",
+      "language": "eng",
+      "games_count": 8,
+      "image_background": "https://media.rawg.io/media/games/cb6/cb63a33e16f90fa6f008cc093239dad3.jpg"
+    },
+    {
+      "id": 4441,
+      "name": "cube",
+      "slug": "cube",
+      "language": "eng",
+      "games_count": 2323,
+      "image_background": "https://media.rawg.io/media/screenshots/979/97942be148a9f6fb04355f2d7fba1414.jpg"
+    },
+    {
+      "id": 14973,
+      "name": "modding",
+      "slug": "modding",
+      "language": "eng",
+      "games_count": 6,
+      "image_background": "https://media.rawg.io/media/screenshots/19a/19a70fcb8c23bf1a5c6b73fe047216cd.jpg"
+    },
+    {
+      "id": 1372,
+      "name": "procedural-generation",
+      "slug": "procedural-generation-2",
+      "language": "eng",
+      "games_count": 41,
+      "image_background": "https://media.rawg.io/media/screenshots/bfd/bfd5f710aa2e85cefdcc2497587d1401.jpg"
+    }
+  ],
+  "publishers": [
+    {
+      "id": 20987,
+      "name": "Microsoft Studios",
+      "slug": "microsoft-studios",
+      "games_count": 493,
+      "image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+    },
+    {
+      "id": 6271,
+      "name": "Mojang",
+      "slug": "mojang",
+      "games_count": 6,
+      "image_background": "https://media.rawg.io/media/screenshots/424/4242e76b898c47219406b83b49e40287.jpg"
+    }
+  ],
+  "esrb_rating": {
+    "id": 2,
+    "name": "Everyone 10+",
+    "slug": "everyone-10-plus"
+  },
+  "clip": null,
+  "description_raw": "One of the most popular games of the 2010s, Minecraft allows you to rebuild the environment around you. The world of the game is open, infinitely wide, and procedurally generated. It is composed of small 3D cubes that represent specific types of materials or terrain. The gameplay is centered on mining and building various structures of your choice. You can also craft items like tools, weapons, and armor. There's an option to shift to the first or the third person view.\nMinecraft includes multiple modes that dramatically change the focus of the game. Survival and Adventure modes require the player to gather resources, hunt for food and fight monsters to survive. In the Hardcore mode, there's even permanent death. Creative mode, by contrast, offers you to freely explore the world and construct whatever you want with unlimited resources. There's also a multiplayer mode that allows the players to share their worlds and engage in the traditional MMO activities, such as player-vs-player combat.\nMinecraft's crude visual style, reminiscent of Lego cubes, became an iconic part of the popular culture. There are many myths and fan fiction surrounding the game, such as the legend of Herobrine, a rumored character that officially doesn't exist."
+}
